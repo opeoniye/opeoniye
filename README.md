@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **AWS, Linux**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/edit#](https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/edit#)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/edit?usp=sharing](https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/edit#)
 
 - ⚡ Fun fact **I love Jesus.**
 
