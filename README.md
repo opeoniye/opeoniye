@@ -4,7 +4,7 @@
 
 - **Ask me about**: **AWS, Linux, DevOps, NodeJS**
 
-- **Resume**: [Bams CV](https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/edit#)
+- **Resume**: [Bams CV](https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/preview)
 
 - **Portfolio**: https://opeoniye.github.io/
 - **Fun fact**: **I love Jesus.**
