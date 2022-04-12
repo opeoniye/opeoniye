@@ -6,7 +6,7 @@
 
 - **Resume**: [Bams CV](https://docs.google.com/document/d/1Hny5PH2bVO_Tq4o5wwQJ6CX6kDYkPbXuIOLiQan916o/preview)
 
-- **Portfolio**: https://opeoniye.github.io/
+- **Portfolio**: https://opeoniye.vercel.app/
 - **Fun fact**: **I love Jesus.**
 
 
