@@ -1,4 +1,4 @@
-<h3 align="center">An experienced Linux server administrator with skills-set in Linux, Open Source, Cloud(AWS), DevOps and Serverless.</h3>
+<h3 align="center">An experienced Linux server admin who is canny and blessed with foresight. Built SaaS solution serving 100k+ users. Professional experience in Linux, Cloud (AWS), DevOps, and Open source.</h3>
 
 - **Currently learning**: **DevOps, Javascript, React, NodeJS**
 
